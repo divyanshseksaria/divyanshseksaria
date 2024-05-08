@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Divyansh Seksaria<br>👀 I’m interested in Developing and Designing<br>🌱 I’m currently learning Solidity<br>💞️ I’m looking to collaborate on 3d Projects<br>📫 How to reach me divyanshseksaria (instagram)
+👋 Hi, I’m Divyansh Seksaria<br>👀 I’m interested in Developing and Designing<br>🌱 I’m currently learning Solidity<br>💞️ I’m looking to collaborate on 3d Projects<br>
 
 
 ## 🌐 Socials:
